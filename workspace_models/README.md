@@ -7,3 +7,4 @@
     - kf_cb.ipynb: simulation code for CB signal
     - kf_control.ipynb: simulation code for non-CB signal
 - epsilon_machine: WIP.
+- vector_image_compression_rate: Predicting whether CB happens or not by comparing the data size of vector images before/after CB.
